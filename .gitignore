@@ -5,3 +5,4 @@
 __pycache__
 
 flower_data
+model_flowers.pth
